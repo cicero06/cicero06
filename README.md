@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cicero06
+- 👋 Hi, I’m @cicero06 you can call me as jasua 
 - 👀 I’m interested in front-end, data science and statistics..
 - 🌱 I’m currently learning mainly front-end
 - 💞️ I’m looking to collaborate on IoT
